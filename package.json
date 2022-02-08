@@ -1,0 +1,19 @@
+{
+  "name": "gitfolder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunkenny/gitFile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunkenny/gitFile/issues"
+  },
+  "homepage": "https://github.com/varunkenny/gitFile#readme"
+}
